@@ -1,0 +1,6 @@
+print('waht the fuck')
+
+
+
+
+
