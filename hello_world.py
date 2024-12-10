@@ -1,6 +1,1 @@
-print('waht the fuck')
-
-
-
-
-
+print('Hello World')
